@@ -2,3 +2,4 @@ Apa Yang Ingin Saya Kerjakan :
   | -> Memahami GIT dan GITHUB
     -> Menyelesaikan Materi Python
     -> Mempelajari PHP
+    -> Masuk SMA 2 Pinrang
